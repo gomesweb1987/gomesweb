@@ -14,7 +14,7 @@ jobs:
       - name: 📂 Sync files
         uses: SamKirkland/FTP-Deploy-Action@4.0.0
         with:
-          server: ftp.gomesweb87.xyz
-          username: s29fo0ib
-          password: k9xYq02W5q
-          server-dir: public_html/
+         server: 172.106.0.125
+          username: is4dehju
+          password: sv9n8E5Ag5
+          server-dir: public_html
