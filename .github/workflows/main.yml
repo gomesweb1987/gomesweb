@@ -17,4 +17,4 @@ jobs:
          server: 172.106.0.125
           username: is4dehju
           password: sv9n8E5Ag5
-          server-dir: public_html
+          server-dir: public_html/
