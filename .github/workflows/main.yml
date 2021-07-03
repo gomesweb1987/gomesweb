@@ -10,11 +10,10 @@ jobs:
     steps:
       - name: 🚚 Get latest code
         uses: actions/checkout@v2
-
       - name: 📂 Sync files
         uses: SamKirkland/FTP-Deploy-Action@4.0.0
         with:
-         server: 172.106.0.125
-          username: is4dehju
-          password: sv9n8E5Ag5
+          server: ftp.admin.gomesweb87.xyz
+          username: b7ng1ore
+          password: m5T63Oqf3g
           server-dir: public_html/
